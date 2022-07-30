@@ -16,7 +16,6 @@ Assembly\ Exports/
 
 # Auto-conversion notices
 *.PcbDoc.htm
-*.PrjPcb_loc
 
 # Access lock file for dbLib sources
 **/*.ldb
