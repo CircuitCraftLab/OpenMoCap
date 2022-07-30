@@ -20,3 +20,4 @@ Assembly\ Exports/
 
 # Access lock file for dbLib sources
 **/*.ldb
+*.PrjPcb_loc
